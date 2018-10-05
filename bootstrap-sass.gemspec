@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.homepage = 'https://github.com/twbs/bootstrap-sass'
   s.license  = 'MIT'
 
-  s.add_runtime_dependency 'sass', '>= 3.3.4'
+  s.add_runtime_dependency 'sass', '>= 3.6'
   s.add_runtime_dependency 'autoprefixer-rails', '>= 5.2.1'
 
   # Testing dependencies
